@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manasa V</h1>
-<h3 align="center">B.Tech AI & DS @ Amrita | B.Sc Data Science @ IIT Madras</h3>
 
 <p align="center">
   🌱 Passionate learner • 👩‍💻 Tech enthusiast • 🤖 AI & Robotics explorer • 🛠️ Builder of practical solutions
