@@ -69,10 +69,16 @@ I believe in **continuous learning**, **creativity**, and **clarity**.
 ---
 
 ### 📬 Connect with Me
-<p>
-  <a href="mailto:manuvenke06@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/manasa-v"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/manasa-v-0a9527289/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasa linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/_maa.nu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manasa insta" height="30" width="40" /></a>
+  <a href="mailto:manuvenke06@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="manasa gmail" height="25" width="35" />
+  </a>
 </p>
+
+
 
 ---
 
