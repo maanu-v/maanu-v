@@ -91,6 +91,6 @@ I believe in **continuous learning**, **creativity**, and **clarity**.
 
 ### ✨ Fun Fact
 
-I love tinkering with hardware (Arduino, Raspberry Pi), and I dream of building something that walks, talks, and learns on its own 🧠⚙️🤖
+I love tinkering with hardware (Arduino, Raspberry Pi), and I dream of building something that walks, talks, and learns on its own. 🧠⚙️🤖
 
 ---
