@@ -115,6 +115,6 @@ I love tinkering with hardware (Arduino, Raspberry Pi) and exploring how intelli
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/maanu-v/maanu-v/output/github-contribution-grid-snake.svg">
-</p>
+</p> -->
