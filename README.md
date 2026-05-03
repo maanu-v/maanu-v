@@ -101,14 +101,6 @@ I believe in **continuous learning**, **creativity**, and **clarity**.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maanu-v&theme=radical"/>
-</p>
-
----
-
 ### ✨ Fun Fact
 
 I love tinkering with hardware (Arduino, Raspberry Pi) and exploring how intelligent systems can interact with the physical world. 🤖⚙️
