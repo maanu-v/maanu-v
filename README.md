@@ -1,28 +1,10 @@
-<table>
-<tr>
-<td width="220">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="200">
-
-</td>
-
-<td>
-
-<h1>
-Hi there 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-I'm Manasa
-</h1>
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8A2BE2&width=450&lines=Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Turning+coffee+into+code;Always+learning+something+new"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=210&section=header&text=Hi%2C%20I%27m%20Manasa%20%F0%9F%91%8B&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=AI%20%C2%B7%20Data%20Science%20Student%20%20%7C%20%20Turning%20ideas%20into%20working%20systems&descSize=16&descAlignY=56&animation=fadeIn" alt="Hi, I'm Manasa" />
 </p>
 
-
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8A2BE2&center=true&width=500&lines=Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Turning+coffee+into+code;Always+learning+something+new" alt="typing banner" />
+</p>
 
 
 ### 🧠 About Me
