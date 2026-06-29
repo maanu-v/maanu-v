@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/maanu-v/maanu-v/main/assets/header.svg" alt="Hi, I'm Manasa" />
+<img width="100%" src="https://raw.githubusercontent.com/maanu-v/maanu-v/5f76ef66d348c43fa4b56512f6ce7df3426e7ceb/assets/header.svg" alt="Hi, I'm Manasa" />
 </p>
 
 <table align="center">
