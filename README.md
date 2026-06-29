@@ -20,10 +20,16 @@
 
 ### 🧠 About Me
 
-I'm a curious and driven learner who thrives on solving real-world problems through technology.
-From experimenting with machine learning models to building full-stack applications, I enjoy turning ideas into working systems.
+I'm an AI & Data Science student who loves turning ideas into things that actually run. I've worked across machine learning, full-stack apps, and hardware — and lately I'm getting hooked on **DevOps**: automating, deploying, and making systems reliable. I learn best by building, breaking, and rebuilding.
 
-I believe in **continuous learning**, **creativity**, and **clarity**.
+---
+
+### 🚀 What I'm Up To
+
+- 🔧 Diving into **DevOps** — Docker, Kubernetes, CI/CD, infra as code
+- 🌱 Always up for learning something new & experimenting
+- 🤝 Open to collaborations, internships & interesting problems
+- 💬 Ask me about **AI/ML, Data Science, or hardware**
 
 ---
 
@@ -99,7 +105,7 @@ I believe in **continuous learning**, **creativity**, and **clarity**.
 
 ### ✨ Fun Fact
 
-I love tinkering with hardware (Arduino, Raspberry Pi) and exploring how intelligent systems can interact with the physical world. 🤖⚙️
+I get way too excited when a pipeline goes green on the first try. 🟢 Serial breaker-and-fixer of my own setups.
 
 ---
 
