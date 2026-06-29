@@ -18,7 +18,7 @@
 
 I'm an AI & Data Science student who loves turning ideas into things that actually run. I've worked across machine learning, full-stack apps, and hardware — and lately I'm getting hooked on **DevOps**: automating, deploying, and making systems reliable. I learn best by building, breaking, and rebuilding.
 
-<p align="center">✦ ───────────── ⟡ ───────────── ✦</p>
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/2724cee753e09519edcb526e948b61a05e876872/assets/divider-line.svg" width="100%" alt="divider" />
 
 ### 🚀 What I'm Up To
 
@@ -27,7 +27,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 - 🤝 Open to collaborations, internships & interesting problems
 - 💬 Ask me about **AI/ML, Data Science, or hardware**
 
-<p align="center">⋆ ˚ ｡ ⋆ ୨ ✦ ୧ ⋆ ｡ ˚ ⋆</p>
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/2724cee753e09519edcb526e948b61a05e876872/assets/divider-line.svg" width="100%" alt="divider" />
 
 ### 🛠️ Languages & Tools
 
@@ -77,7 +77,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 
 </p>
 
-<p align="center">· · · ✦ · · · ◆ · · · ✦ · · ·</p>
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/2724cee753e09519edcb526e948b61a05e876872/assets/divider-line.svg" width="100%" alt="divider" />
 
 ### 📬 Connect with Me
 
@@ -97,7 +97,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 
 </p>
 
-<p align="center">◈ ─────────── ✦ ─────────── ◈</p>
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/2724cee753e09519edcb526e948b61a05e876872/assets/divider-line.svg" width="100%" alt="divider" />
 
 ### ✨ Fun Fact
 
