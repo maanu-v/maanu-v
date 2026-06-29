@@ -77,7 +77,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 
 </p>
 
-<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-pill.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
 ### 📬 Connect with Me
 
@@ -97,7 +97,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 
 </p>
 
-<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-wavy.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
 ### ✨ Fun Fact
 
