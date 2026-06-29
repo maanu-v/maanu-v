@@ -6,6 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8A2BE2&center=true&width=500&lines=Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Turning+coffee+into+code;Always+learning+something+new" alt="typing banner" />
 </p>
 
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="320" alt="coding gif" />
+</p>
+
 
 ### 🧠 About Me
 
@@ -79,7 +83,7 @@ I believe in **continuous learning**, **creativity**, and **clarity**.
 </a>
 
 <a href="mailto:manuvenke06@gmail.com">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="25" width="35" />
+<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
 </a>
 
 </p>
