@@ -1,9 +1,5 @@
 <p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/maanu-v/maanu-v/5f76ef66d348c43fa4b56512f6ce7df3426e7ceb/assets/header.svg" alt="Hi, I'm Manasa" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&width=460&lines=%F0%9F%90%9B+Debugging+life%2C+one+bug+at+a+time" alt="tagline" />
+<img width="100%" src="https://raw.githubusercontent.com/maanu-v/maanu-v/13b506a86755bc5b7c1429c38250577400e27c44/assets/header.svg" alt="Hi, I'm Manasa" />
 </p>
 
 <table align="center">
