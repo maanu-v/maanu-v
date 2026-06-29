@@ -8,7 +8,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="260" alt="coding gif" />
 </td>
 <td align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8A2BE2&center=true&width=420&lines=Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Turning+coffee+into+code;Explore+%E2%80%A2+Experiment+%E2%80%A2+Evolve" alt="typing banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8A2BE2&center=true&width=420&lines=Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Debugging+life%2C+one+bug+at+a+time;Explore+%E2%80%A2+Experiment+%E2%80%A2+Evolve" alt="typing banner" />
 </td>
 </tr>
 </table>
