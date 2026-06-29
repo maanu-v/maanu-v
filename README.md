@@ -18,7 +18,7 @@
 
 I'm an AI & Data Science student who loves turning ideas into things that actually run. I've worked across machine learning, full-stack apps, and hardware — and lately I'm getting hooked on **DevOps**: automating, deploying, and making systems reliable. I learn best by building, breaking, and rebuilding.
 
-<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/7db05ebda23b8f54c7f8c851e62cdd13ff431085/assets/divider-gradient.svg" width="100%" alt="divider" />
+<p align="center">✦ ───────────── ⟡ ───────────── ✦</p>
 
 ### 🚀 What I'm Up To
 
@@ -27,7 +27,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 - 🤝 Open to collaborations, internships & interesting problems
 - 💬 Ask me about **AI/ML, Data Science, or hardware**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+<p align="center">⋆ ˚ ｡ ⋆ ୨ ✦ ୧ ⋆ ｡ ˚ ⋆</p>
 
 ### 🛠️ Languages & Tools
 
@@ -77,7 +77,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="divider" />
+<p align="center">· · · ✦ · · · ◆ · · · ✦ · · ·</p>
 
 ### 📬 Connect with Me
 
@@ -97,7 +97,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 
 </p>
 
-<p align="center">✦&nbsp;&nbsp;⟡&nbsp;&nbsp;✦</p>
+<p align="center">◈ ─────────── ✦ ─────────── ◈</p>
 
 ### ✨ Fun Fact
 
