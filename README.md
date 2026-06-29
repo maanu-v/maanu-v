@@ -18,7 +18,7 @@
 
 I'm an AI & Data Science student who loves turning ideas into things that actually run. I've worked across machine learning, full-stack apps, and hardware — and lately I'm getting hooked on **DevOps**: automating, deploying, and making systems reliable. I learn best by building, breaking, and rebuilding.
 
-<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/7c42373ff33bfafc195ebf3f8588804c0da7e7da/assets/divider-line.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
 ### 🚀 What I'm Up To
 
@@ -27,7 +27,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 - 🤝 Open to collaborations, internships & interesting problems
 - 💬 Ask me about **AI/ML, Data Science, or hardware**
 
-<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/7c42373ff33bfafc195ebf3f8588804c0da7e7da/assets/divider-line.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
 ### 🛠️ Languages & Tools
 
@@ -77,7 +77,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 
 </p>
 
-<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/7c42373ff33bfafc195ebf3f8588804c0da7e7da/assets/divider-line.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-pill.svg" width="100%" alt="divider" />
 
 ### 📬 Connect with Me
 
@@ -97,7 +97,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 
 </p>
 
-<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/7c42373ff33bfafc195ebf3f8588804c0da7e7da/assets/divider-line.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-wavy.svg" width="100%" alt="divider" />
 
 ### ✨ Fun Fact
 
