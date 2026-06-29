@@ -103,9 +103,9 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 
 I get way too excited when a pipeline goes green on the first try. 🟢 Serial breaker-and-fixer of my own setups.
 
-<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/7db05ebda23b8f54c7f8c851e62cdd13ff431085/assets/divider-wave.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
-### 🐍 Contribution Snake
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f40d.png" width="24" height="24" alt="snake" valign="middle" /> Contribution Snake
 
 <p align="center">
 <picture>
