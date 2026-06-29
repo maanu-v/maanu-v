@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="24" viewBox="0 0 1000 24" preserveAspectRatio="none" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#4B0082"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 12 Q12.5 4 25 12 T50 12 T75 12 T100 12 T125 12 T150 12 T175 12 T200 12 T225 12 T250 12 T275 12 T300 12 T325 12 T350 12 T375 12 T400 12 T425 12 T450 12 T475 12 T500 12 T525 12 T550 12 T575 12 T600 12 T625 12 T650 12 T675 12 T700 12 T725 12 T750 12 T775 12 T800 12 T825 12 T850 12 T875 12 T900 12 T925 12 T950 12 T975 12 T1000 12" fill="none" stroke="url(#g)" stroke-width="2.5"/>
+</svg>
