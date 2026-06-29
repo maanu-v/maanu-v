@@ -1,14 +1,17 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=210&section=header&text=Hi%2C%20I%27m%20Manasa%20%F0%9F%91%8B&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=AI%20%C2%B7%20Data%20Science%20Student%20%20%7C%20%20Turning%20ideas%20into%20working%20systems&descSize=16&descAlignY=56&animation=fadeIn" alt="Hi, I'm Manasa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=210&section=header&text=Hi%2C%20I%27m%20Manasa%20%F0%9F%91%8B&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=AI%20%C2%B7%20Data%20Science%20Student%20%20%7C%20%20Building%20tomorrow%20with%20data%20%26%20code&descSize=16&descAlignY=56&animation=fadeIn" alt="Hi, I'm Manasa" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8A2BE2&center=true&width=500&lines=Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Turning+coffee+into+code;Always+learning+something+new" alt="typing banner" />
-</p>
-
-<p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="320" alt="coding gif" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="300">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="260" alt="coding gif" />
+</td>
+<td align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8A2BE2&center=true&width=420&lines=Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Turning+coffee+into+code;Always+learning+something+new" alt="typing banner" />
+</td>
+</tr>
+</table>
 
 
 ### 🧠 About Me
@@ -62,7 +65,7 @@ I believe in **continuous learning**, **creativity**, and **clarity**.
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Raspberry_Pi_Logo.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" />
 
