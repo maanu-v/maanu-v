@@ -18,6 +18,11 @@ I'm Manasa
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8A2BE2&width=450&lines=Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Turning+coffee+into+code;Always+learning+something+new"/>
 </p>
 
+<p>
+<img src="https://komarev.com/ghpvc/?username=maanu-v&label=Profile%20views&color=8A2BE2&style=flat" alt="profile views" />
+<a href="https://github.com/maanu-v?tab=followers"><img src="https://img.shields.io/github/followers/maanu-v?label=Followers&style=flat&color=8A2BE2" alt="followers" /></a>
+</p>
+
 
 
 </td>
@@ -64,6 +69,9 @@ I believe in **continuous learning**, **creativity**, and **clarity**.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
@@ -77,6 +85,27 @@ I believe in **continuous learning**, **creativity**, and **clarity**.
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" />
 
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maanu-v&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="github stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=maanu-v&hide_border=true&theme=tokyonight" alt="streak stats" />
+</p>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanu-v&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maanu-v&bg_color=1a1b27&color=8a2be2&line=8a2be2&point=ffffff&area=true&hide_border=true" alt="activity graph" width="95%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=maanu-v&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
 </p>
 
 ---
