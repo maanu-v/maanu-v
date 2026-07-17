@@ -90,6 +90,20 @@ I get way too excited when a pipeline goes green on the first try. 🟢 Serial b
 
 <img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
+### 📊 Profile Pulse
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=maanu-v&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/maanu-v?style=for-the-badge&label=FOLLOWERS&color=1f6feb&labelColor=555555" alt="Followers" />
+<img src="https://img.shields.io/github/stars/maanu-v/maanu-v?style=for-the-badge&label=TEMPLATE+STARS&color=0e8a6b&labelColor=555555" alt="Template stars" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=maanu-v&theme=dark&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
+
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f40d.png" width="24" height="24" alt="snake" valign="middle" /> Contribution Snake
 
 <p align="center">
