@@ -67,19 +67,15 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 ### 📬 Connect with Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/manasa-v-0a9527289/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/manasa-v-0a9527289/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-
-<a href="https://instagram.com/_maa.nu_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://instagram.com/_maa.nu_" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
-
 <a href="mailto:manuvenke06@gmail.com">
-<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
-
 </p>
 
 <img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
