@@ -50,7 +50,7 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 </p>
 
 <details>
-<summary><b>▶ What I reach for</b> — AI/ML, hardware & scientific tooling</summary>
+<summary><b>What I reach for</b> — AI/ML, hardware & scientific tooling</summary>
 <br>
 
 <p align="left">
