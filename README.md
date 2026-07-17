@@ -29,53 +29,38 @@ I'm an AI & Data Science student who loves turning ideas into things that actual
 
 <img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
-### 🛠️ Languages & Tools
+### 🎨 Technical Palette
+
+**Application and AI**
 
 <p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" />
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
-
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" />
-
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,kotlin,react,nextjs,flask" alt="Application and AI stack" />
 </p>
+
+**Backend and data**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,mysql,redis,firebase" alt="Backend and data stack" />
+</p>
+
+**Platform and delivery**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,github,kubernetes,bash,aws,terraform,ansible" alt="Platform and delivery stack" />
+</p>
+
+<details>
+<summary><b>▶ What I reach for</b> — AI/ML, hardware & scientific tooling</summary>
+<br>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" alt="AI/ML tooling" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" title="Pandas" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" title="Seaborn" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,ros" alt="Hardware and scientific tooling" />
+</p>
+
+</details>
 
 <img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
