@@ -1,4 +1,4 @@
-name: Update streak stats
+name: Update profile cards
 
 on:
   schedule:
@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
+      - "profile/generate.py"
   workflow_dispatch:
 
 jobs:
@@ -17,17 +18,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&disable_animations=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate cards
+        run: python3 profile/generate.py --test && python3 profile/generate.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit streak stats
+      - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
+          git add profile/
+          git commit -m "Update profile cards" || exit 0
           git push
