@@ -181,8 +181,9 @@ def city_card(days):
                  f'<path fill="{lit}" d="M{x} {ty}l{a} {b}l{-a} {b}l{-a} {-b}z"/>')
         towers.append(f'<g class="tw" style="animation-delay:{w * 41}ms;transform-origin:{x}px {y + 2 * b}px">{faces}</g>')
         if n == peak and not beacon:
-            beacon = (f'<rect class="beacon" x="{x - 1.5}" y="{max(ty - 90, 40)}" width="3" height="{ty + b - max(ty - 90, 40)}" fill="url(#ray)"/>'
-                      f'<circle class="beacon" cx="{x}" cy="{ty + b}" r="5" fill="#fff"/>')
+            # shares the tower's timing and base, so the beam rises and sinks with it
+            beacon = (f'<g class="tw" style="animation-delay:{w * 41}ms;transform-origin:{x}px {y + 2 * b}px"><rect class="beacon" x="{x - 1.5}" y="{max(ty - 90, 40)}" width="3" height="{ty + b - max(ty - 90, 40)}" fill="url(#ray)"/>'
+                      f'<circle class="beacon" cx="{x}" cy="{ty + b}" r="5" fill="#fff"/></g>')
     rnd = random.Random(USER)
     stars = "".join(f'<circle class="star" style="animation-delay:{rnd.random() * 3:.2f}s" cx="{rnd.randint(20, 840)}" '
                     f'cy="{rnd.randint(44, 170)}" r="{rnd.choice((1, 1, 1.6))}" fill="#bae6fd"/>' for _ in range(36))
@@ -309,7 +310,7 @@ def test():
     assert streaks([]) == (0, 0)
     start = dt.date(2026, 1, 1)
     sample = [((start + dt.timedelta(i)).isoformat(), i % 5) for i in range(400)]
-    assert city_card(sample).count('class="tw"') == sum(1 for _, n in sample[-364:] if n)
+    assert city_card(sample).count('class="tw"') == sum(1 for _, n in sample[-364:] if n) + 1  # +1: the beam
 
 
 if __name__ == "__main__":
