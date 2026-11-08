@@ -1,28 +1,35 @@
-<div align="center">
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/maanu-v/maanu-v/7a8f0cf2a4b284798170318910494682b9974615/assets/header.svg" alt="Hi, I'm Manasa" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4A6E,50:0EA5E9,100:38BDF8&height=170&section=header&text=Hi,%20I'm%20Manasa&fontColor=E0F2FE&fontSize=48&fontAlignY=38&desc=AI%20and%20Data%20Science%20student%20%C2%B7%20getting%20hooked%20on%20DevOps&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Hi, I'm Manasa" />
+<table align="center">
+<tr>
+<td align="center" width="300">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="260" alt="coding gif" />
+</td>
+<td align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8A2BE2&center=true&width=420&lines=Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Turning+coffee+into+code;Explore+%E2%80%A2+Experiment+%E2%80%A2+Evolve" alt="typing banner" />
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/maanu-v"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=48&lines=Code+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Turning+coffee+into+code;Explore+%E2%80%A2+Experiment+%E2%80%A2+Evolve;Still+in+beta" alt="Code, Break, Fix, Repeat" /></a>
 
-<img src="profile/scan.svg" width="100%" alt="Profile scan of Manasa V, with contact email manuvenke06@gmail.com" />
+### 🧠 About Me
 
-</div>
+I'm an AI & Data Science student who loves turning ideas into things that actually run. I've worked across machine learning, full-stack apps, and hardware — and lately I'm getting hooked on **DevOps**: automating, deploying, and making systems reliable. I learn best by building, breaking, and rebuilding.
 
-<br/>
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
-<img src="profile/heading-about.svg" width="100%" alt="About Me" />
+### 🚀 What I'm Up To
 
-<img src="profile/about.svg" width="100%" alt="AI and Data Science student at Amrita Vishwa Vidyapeetham, Coimbatore, who loves turning ideas into things that actually run. Worked across machine learning, full-stack apps, and hardware, and getting hooked on DevOps." />
+- 🔧 Diving into **DevOps** — Docker, Kubernetes, CI/CD, infra as code
+- 🌱 Always up for learning something new & experimenting
+- 🤝 Open to collaborations, internships & interesting problems
+- 💬 Ask me about **AI/ML, Data Science, or hardware**
 
-<br/>
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
-<img src="profile/heading-up-to.svg" width="100%" alt="What I'm Up To" />
-
-<img src="profile/now.svg" width="100%" alt="Diving into DevOps, always learning, open to collaborations and internships, ask me about AI/ML, Data Science, or hardware." />
-
-<br/>
-
-<img src="profile/heading-stack.svg" width="100%" alt="Tech Stack" />
+### 🎨 Technical Palette
 
 <table width="100%">
 <tr>
@@ -51,37 +58,44 @@
 </tr>
 </table>
 
-<br/>
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
-<img src="profile/heading-activity.svg" width="100%" alt="GitHub Activity" />
+### 📬 Connect with Me
 
-<p align="center">
-  <img src="profile/city.svg" width="100%" alt="3D city of contributions over the last 12 months" />
+<p align="left">
+<a href="https://www.linkedin.com/in/manasa-v-0a9527289/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/_maa.nu_" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+<a href="mailto:manuvenke06@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maanu-v&label=VISITS&color=0EA5E9&style=for-the-badge&labelColor=0D1117" alt="profile visits" />
-</p>
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
-<p align="center">
-  <img src="profile/stats.svg" width="100%" alt="Total contributions, current streak and longest streak" />
-</p>
-
-<br/>
-
-<img src="profile/heading-fun-fact.svg" width="100%" alt="Fun Fact" />
+### ✨ Fun Fact
 
 I get way too excited when a pipeline goes green on the first try. 🟢 Serial breaker-and-fixer of my own setups.
 
-<br/>
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
 
-<img src="profile/heading-connect.svg" width="100%" alt="Connect with Me" />
+### 📊 Profile Pulse
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manasa-v-0a9527289/"><img src="https://img.shields.io/badge/LinkedIn-connect-38BDF8?style=for-the-badge&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/_maa.nu_"><img src="https://img.shields.io/badge/Instagram-follow-38BDF8?style=for-the-badge&logo=instagram&logoColor=38BDF8&labelColor=0D1117" alt="Instagram" /></a>
-  <a href="mailto:manuvenke06@gmail.com"><img src="https://img.shields.io/badge/Gmail-say%20hi-38BDF8?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0D1117" alt="Gmail" /></a>
-  <a href="https://github.com/maanu-v"><img src="https://img.shields.io/badge/GitHub-follow-38BDF8?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117" alt="GitHub" /></a>
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/main/profile/streak.svg" alt="GitHub streak stats" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=110&section=footer&animation=fadeIn" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/maanu-v/maanu-v/c57d8f4530c9f3b5d7261c422e1aa48d81fe0932/assets/divider-glow.svg" width="100%" alt="divider" />
+
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f40d.png" width="24" height="24" alt="snake" valign="middle" /> Contribution Snake
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maanu-v/maanu-v/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maanu-v/maanu-v/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/maanu-v/maanu-v/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
